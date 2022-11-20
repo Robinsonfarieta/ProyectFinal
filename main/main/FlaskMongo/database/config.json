@@ -1,0 +1,5 @@
+{
+    "MONGO_URI_SERVER": "mongodb+srv://Robinson:Cindy2022@cluster0.wixxz28.mongodb.net/bd-registro?retryWrites=true&w=majority",
+    "MONGO_URI_LOCAL": "bd-registro",
+    "LOCAL_PORT": 9999
+}
